@@ -1,5 +1,6 @@
-Hi, I’m NB, I’m interested in data analysis, automation and deep learning. 
-My primary focus is on growing my knowledge of deep learning models and developing AI-based approaches to solve interesting problems.
+Hi, I’m NB, and I am passionate about the intersection of AI, agents and cognition.
+My primary focus is on building AI agents that solve daily problems and mental clutter; also I am passionate about building better models of the human brain and cognitive processes.
+
 On the side, I make various macros, websites and games :)
 <!---
 - ⚡ Fun fact: 
