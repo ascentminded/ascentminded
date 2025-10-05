@@ -1,8 +1,8 @@
 #### Welcome to ascent minded!
 
-Hi, I’m NB, and I thrive at the intersection of computation and cognition.
+Hi, I’m NB, and I thrive at the intersection of computation and biology. While I've primarily worked on datasets in a neuroscientific context, I'm excited to apply my skillset to new real-world research problems.
 
-As a computational neuroscientist, I've modelled all kinds of data: 2-photon images ,EEG, spike trains and so on, and continue to use code (primarily in Python) to build models of how the brain learns, predicts and adapts. Many of those won't find their way here, but I hope to slowly open source more of my work.
+As a computational neuroscientist, I've modelled all kinds of data: 2-photon images ,EEG, spike trains and so on, and continue to use code (primarily in Python) to build models of how the brain learns, predicts and adapts. Many of those won't find their way here, but I hope to slowly open source more of my work. In neuro labs, I've also collated image datasets for cognition and biomedical research, although those are still locked away, awaiting publication.
 
 Over the years, I've used machine learning, deep learning and multiple other modalities to explore my interests. Recently, for instance, I've explored transformers and LLMs, hoping to interpret their 'thinking' and gain insights into how we predict and process language.
 
