@@ -12,45 +12,62 @@ Thanks for dropping by,
 
 ~NB
 
-### An index of repos:
-0. [ascentminded.github.io](ascentminded.github.io) or [its repository](https://github.com/ascentminded/ascentminded.github.io) houses some of my unconventional projects, a website in the making.
+Here’s a cleaner, typo-free version of your markdown text, with improved flow and structure:
 
-1. [Stargazzers Allen Project](https://github.com/ascentminded/Stargazzers_Allen_project) is a repo from the 2021 Neuromatch course project. 
-   - My team Stargazzers (the typo was a joke that stuck) worked with calcium imaging data, predicting whether a mouse was looking at a familar or unfamiliar image from its brain activity.
-   - Primarily Machine learning tools, using SkLearn to run Logistic Regression, Random Forest, and a rudimentary neural net.
+---
 
-1b. As a sort of followup, I built [Predictive brain](https://github.com/ascentminded/pred-brain) 
-   - Pred-brain simulates the complex interplay between certain regions of the brain (VIP, SST, PY interneurons and Pyramidal neurons)
-   - I essentially built a literature backed, simple solution.
-   - Some math, but mostly intuitive pure python logic.
+### Index of Repositories
 
-#### Dabbling in deep learning
-2. [SmaLLM](https://github.com/ascentminded/SmaLLM) is an implementation of GPT2
-   - It is built as a Jupyter notebook (.ipynb), with plenty of comments, allowing new students to follow along and understand how transformers work.
-   - It helped me understand the seminal paper 'Attention is all you need', and transformers in general.
+0. [ascentminded.github.io](https://ascentminded.github.io) (or [its repository](https://github.com/ascentminded/ascentminded.github.io)) hosts some of my unconventional projects, including a website still under development.
 
-2b (dead). [CNN Analysis](https://github.com/ascentminded/CNN_Analysis) and dl-cellcount are currently a fairly dead repository, check back in later!
-   - (I want to turn my experience with CNNs into a series of easy-to-understand jupyter notebooks, but I'm fairly short on time and some of the code is in uncertain IP. One day)
+1. [Stargazzers Allen Project](https://github.com/ascentminded/Stargazzers_Allen_project) is a repository from the 2021 Neuromatch course project.
 
-#### It also led to my experiments with agentic AI:
-3. The [PhD vacancy agent](https://github.com/ascentminded/PhD-vacancy-agent) was something I built twice: once in n8n (a no-code, javascript based software) and once in pure python.
-   - The n8n workflow is still there for you to use, although it's imperfect. 
-   - The python code uses Python's Requests module to scrape vacancy aggregator websites, the Google Sheets API to store them, and an LLM (Gemini is what I used) to parse the job titles and pick out the ones that fit my prompt.
+   * My team, Stargazzers (the typo was a joke that stuck), worked with calcium imaging data to predict whether a mouse was looking at a familiar or unfamiliar image based on its brain activity.
+   * The project primarily used machine learning tools, employing SkLearn for Logistic Regression, Random Forest, and a basic neural network.
 
-4. The [Cognitive companion](https://github.com/ascentminded/cognitive-companion) combined the Agentic AI framework with implementation -- I built a react.js website that allows users to interact with it.
-   - The website takes in user data, summarizes it, and provides socratic questions that lead to better understanding of the material.
-   - This way, I got to work with LLMs, web dev, and build a tool that does one task well.
+1b. As a follow-up, I built [Predictive Brain](https://github.com/ascentminded/pred-brain):
 
-5. The imaginatively named [LLaMa agent](https://github.com/ascentminded/llama-agent) was my support for the open source community:
-   - AI APIs like ChatGPT and Gemini provide an easy-to-use framework for building AI agents: They make formatted outputs, prompting, tool use, etc easy.
-   - LLaMa hasn't quite caught up, and its syntax can come off as a little clunky. There's also a lot less documentation for it.
-   - As such, I built a repository that people can use as a handy reference when building their first LLaMa agent in python.
+* This project simulates the complex interplay between specific brain regions (VIP, SST, PY interneurons, and pyramidal neurons).
+* It is a literature-backed, simple solution with some math, but mostly intuitive, pure Python logic.
 
-#### Just for fun.
-6. [Canvas.py](https://github.com/ascentminded/Canvas) is just for fun.
-   - Game engines like Unity and Godot makes scaling up a game a lot easier, but sometimes you want to build very simple games -- pygame comes in there.
-   - This specific game is a lightweight python file, requiring one image for your character, and one image (a 'canvas') for a large background
-   - Much like in xkcd's Hoverboard game, this setup is meant for artists to let their readers explore the worlds they create in an organic way. Try it out :)!
+#### Deep Learning Experiments
 
-7. For the fluroescent microscope users, I also built some [ImageJ/Fiji macros](https://github.com/ascentminded/Fluorescent_Image_Macro), which may fit your use case:
-   - Give it a shot :)
+2. [SmaLLM](https://github.com/ascentminded/SmaLLM) is my implementation of GPT-2.
+
+   * Built as a Jupyter notebook (.ipynb), the project includes extensive comments to help new students follow along and understand how transformers work.
+   * This project deepened my understanding of the seminal paper *Attention is All You Need* and transformers in general.
+
+2b. [CNN Analysis](https://github.com/ascentminded/CNN_Analysis) and dl-cellcount are currently inactive repositories. Check back later!
+
+* I aimed to turn my experience with CNNs into a series of easy-to-understand Jupyter notebooks, but due to time constraints and some uncertain IP issues, the project remains on hold for now.
+
+#### Agentic AI Experiments
+
+3. The [PhD Vacancy Agent](https://github.com/ascentminded/PhD-vacancy-agent) is a tool I built twice: once using n8n (a no-code, JavaScript-based tool) and once in pure Python.
+
+   * The n8n workflow is still available, though imperfect.
+   * The Python version uses the Requests module to scrape vacancy aggregator websites, the Google Sheets API to store the results, and an LLM (Gemini, in my case) to parse job titles and filter them based on my prompt.
+
+4. The [Cognitive Companion](https://github.com/ascentminded/cognitive-companion) combined an agentic AI framework with implementation. I built a React.js website that allows users to interact with the system.
+
+   * The website takes in user data, summarizes it, and presents Socratic questions to help users gain a better understanding of the material.
+   * This project allowed me to work with LLMs, web development, and build a tool that performs a single task effectively.
+
+5. The [LLaMa Agent](https://github.com/ascentminded/llama-agent) was my contribution to the open-source community.
+
+   * While AI APIs like ChatGPT and Gemini provide an easy-to-use framework for building AI agents, LLaMa has not yet caught up. Its syntax can be somewhat clunky, and there is less documentation available.
+   * I built this repository as a reference for anyone building their first LLaMa agent in Python.
+
+#### Just for Fun
+
+6. [Canvas.py](https://github.com/ascentminded/Canvas) is a fun project for simple game development.
+
+   * Game engines like Unity and Godot are great for scaling up games, but sometimes you want to build something small and straightforward. Pygame is perfect for that.
+   * This game is a lightweight Python file that requires just one image for your character and one background image ("canvas").
+   * Inspired by xkcd's *Hoverboard Game*, this setup is designed for artists to let their readers explore the worlds they create in an organic way. Try it out!
+
+7. For users of fluorescent microscopes, I also created some [ImageJ/Fiji macros](https://github.com/ascentminded/Fluorescent_Image_Macro), which may be useful for your work.
+
+   * Give it a try!
+
+---
