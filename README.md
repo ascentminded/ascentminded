@@ -1,20 +1,18 @@
 #### Welcome to ascent minded!
 
-Hi, I’m NB, and I thrive at the intersection of computation and biology. While I've primarily worked on datasets in a neuroscientific context, I'm excited to apply my skillset to new real-world research problems.
+Hi, I’m NB, and I thrive at the intersection of computation and biology. Data science is a lot of fun, and I've found that I learn best through getting my hands dirty (hardly an outlier in this).
+The repos you find here are mostly my ventures into a new field, hobby or type of data.
 
-As a computational neuroscientist, I've modelled all kinds of data: 2-photon images ,EEG, spike trains and so on, and continue to use code (primarily in Python) to build models of how the brain learns, predicts and adapts. Many of those won't find their way here, but I hope to slowly open source more of my work. In neuro labs, I've also collated image datasets for cognition and biomedical research, although those are still locked away, awaiting publication.
+I've worked with clinical data, EHR and otherwise; biomedical data from hearts and brains; modeled survival, designed whimsical games and wrote little html personality quizzes.
+As a computational neuroscientist, I spent years with 2-photon images ,EEG, spike trains and so on, and continue to use code (primarily in Python) to build models of how the brain learns, predicts and adapts. 
 
-Over the years, I've used machine learning, deep learning and multiple other modalities to explore my interests. Recently, for instance, I've explored transformers and LLMs, hoping to interpret their 'thinking' and gain insights into how we predict and process language.
-
-Learning is rarely a linear process, as you can tell, and my many side projects will find their way here -- from automation to image analysis, game design to brain scans!
+Many of those projects won't find their way here, but I hope to slowly open source more of my work.
+Learning is rarely a linear process, as you can tell, and my many side projects might lie undeveloped as other priorities come up, but I'll try to keep my work well-documented at the very least.
 
 Thanks for dropping by,
 
 ~NB
 
-Here’s a cleaner, typo-free version of your markdown text, with improved flow and structure:
-
----
 
 ### Index of Repositories
 
